@@ -13,6 +13,3 @@ elsif n % 5 == 0
   return "Buzz"
 else
   return nil
-
-
-  
